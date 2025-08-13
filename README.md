@@ -80,10 +80,8 @@ streamlit run app.py
 
 ---
 
-## 📸 Example
-
-![App Screenshot](screenshot.png)
-*Example prediction page*
+## Website Link
+https://akshat48002-restaurant-rating-predictor-app-tcjgs1.streamlit.app/#restaurant-rating-predictor
 
 ---
 
